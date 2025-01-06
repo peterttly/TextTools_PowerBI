@@ -1,7 +1,7 @@
 # TextTools_PowerBI
 Analytics Manager wants to better understand where our customers may be coming from, based on their email domains.
 ## Objective
-Create a new colimn in the customer table that will allow for this to happen.
+Create a new column in the customer table that will allow for this to happen.
 ## Tools and Techniques
 1. Duplicate the email address column and name it 'Domain Name'
 
